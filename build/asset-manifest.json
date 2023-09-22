@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5c54f33c.css",
+    "main.js": "/static/js/main.84f2dd7b.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/smiling-dentist.jpg": "/static/media/smiling-dentist.2a3cca1a977dc723e0d9.jpg",
+    "static/media/fdu-students.jpg": "/static/media/fdu-students.d0c2a0c0a760c242c768.jpg",
+    "static/media/3.jpg": "/static/media/3.7b95f9c8bde1b333411e.jpg",
+    "static/media/1.jpg": "/static/media/1.5ea784ebda64b11de480.jpg",
+    "static/media/2.jpg": "/static/media/2.ebf44b4979d48276ef1b.jpg",
+    "static/media/4.jpg": "/static/media/4.300ad646af813e8b0fa7.jpg",
+    "static/media/spanish.jpg": "/static/media/spanish.d17176eec16e3927dc1a.jpg",
+    "static/media/english.jpg": "/static/media/english.3d7274c3f73ce527ce4c.jpg",
+    "static/media/logo.png": "/static/media/logo.54f77b58a40ef3db138b.png",
+    "index.html": "/index.html",
+    "main.5c54f33c.css.map": "/static/css/main.5c54f33c.css.map",
+    "main.84f2dd7b.js.map": "/static/js/main.84f2dd7b.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c54f33c.css",
+    "static/js/main.84f2dd7b.js"
+  ]
+}
